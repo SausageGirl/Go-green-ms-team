@@ -1,4 +1,4 @@
-# 🐍 ALL DAY ALL NIGHT MATE
+# 🐍 Always green : ALL DAY ALL NIGHT MATE
 
 This is a simple Python script that automatically presses the Ctrl key every 4 minutes (240 seconds).
 It’s useful for keeping your computer or session active (preventing sleep, auto-lock, etc.).
