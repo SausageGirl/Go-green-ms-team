@@ -12,8 +12,8 @@ It’s useful for keeping your computer or session active (preventing sleep, aut
 1. Clone or download this project to your computer:
 
 ```
-git clone https://github.com/yourusername/auto-ctrl-presser.git
-cd auto-ctrl-presser
+git clone https://github.com/SausageGirl/always-green.git
+cd always-green
 ```
 
 2. Install dependencies:
